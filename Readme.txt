@@ -1,6 +1,2 @@
-Thanks for downloading this template!
-
-Template Name: SnapFolio
-Template URL: https://bootstrapmade.com/snapfolio-bootstrap-portfolio-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Sitio web personal con proyectos destacados, habilidades técnicas y formulario de contacto funcional. 
+Desarrollado con HTML5, CSS3, JavaScript y Bootstrap. Diseño responsive y optimizado para SEO.
